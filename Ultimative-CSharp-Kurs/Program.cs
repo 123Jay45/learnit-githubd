@@ -9,7 +9,11 @@ namespace Ultimative_CSharp_Kurs
     {
         static void Main(string[] args)
         {
-            //Test commit für branch TA0001-Calculation
+            //Änderung zum testen von merging und pulling
+
+            //test ob das obige funktioniert hat
+
+
             //Beispiel für eine Textfile streaming
             ArrayList stringlist = new ArrayList();
             string path = @"C:\tmp/Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\Textlesen.txt";
