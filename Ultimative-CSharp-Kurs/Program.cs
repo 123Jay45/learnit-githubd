@@ -18,7 +18,7 @@ namespace Ultimative_CSharp_Kurs
     //    {
     //        return this.farbe;
     //    }
-
+	// TEST
     //    public void ausgabe()
     //    {
     //        if(farbe != null)
