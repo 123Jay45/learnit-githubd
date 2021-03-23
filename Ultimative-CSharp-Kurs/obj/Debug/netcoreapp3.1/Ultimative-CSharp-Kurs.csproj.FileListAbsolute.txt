@@ -1,0 +1,13 @@
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\bin\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.exe
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\bin\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.deps.json
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\bin\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.runtimeconfig.json
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\bin\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.runtimeconfig.dev.json
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\bin\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.dll
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\bin\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.pdb
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\obj\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.csprojAssemblyReference.cache
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\obj\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.AssemblyInfoInputs.cache
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\obj\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.AssemblyInfo.cs
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\obj\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.csproj.CoreCompileInputs.cache
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\obj\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.dll
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\obj\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.pdb
+C:\tmp\Lernprojekt\Ultimative-CSharp-Kurs\Ultimative-CSharp-Kurs\obj\Debug\netcoreapp3.1\Ultimative-CSharp-Kurs.genruntimeconfig.cache
